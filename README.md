@@ -1,77 +1,74 @@
-# 👋 Hi, I'm a Developer!
+# Hi there, I'm Rahul Sarma
 
-### 🎓 Education
-**Assam Science and Technology University**  
-Dhemaji Engineering College
+### Full Stack Developer | AI & GenAI Enthusiast
+
+I'm passionate about building modern web applications, developing scalable backend systems, and exploring the possibilities of Generative AI. I enjoy learning new technologies and turning ideas into practical solutions.
 
 ---
 
-## 💻 Tech Stack & Skills
+## Tech Stack & Arsenal
 
-### 🌐 Frontend Development
+| Domain | Technologies |
+|:---|:---|
+| **Programming Languages** | JavaScript, Java, Python |
+| **Frontend Development** | React.js, Tailwind CSS, Bootstrap |
+| **Backend Development** | Node.js, Express.js, FastAPI |
+| **AI & Generative AI** | LangChain, GenAI, LLMs |
+| **AI Infrastructure** | Vector Databases, RAG |
+
+### Technologies & Tools
+
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend Development
+**Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,fastapi" />
 </p>
 
-### 🤖 AI & Generative AI
+**AI & GenAI**
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Databases-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
 </p>
 
-- Generative AI (GenAI)
-- LangChain
-- Vector Databases
-- AI-powered Applications
-- Large Language Models (LLMs)
-
 ---
 
-## 🛠️ Languages & Technologies
-
-| Category | Technologies |
-|---|---|
-| Languages | JavaScript, Java, Python |
-| Frontend | React.js, Tailwind CSS, Bootstrap |
-| Backend | Node.js, Express.js, FastAPI |
-| AI / ML | Generative AI, LangChain, LLMs |
-| Databases | Vector Databases |
-
----
-
-## 🚀 What I'm Interested In
+## Areas of Interest
 
 - Full Stack Web Development
-- Backend Engineering & REST APIs
-- Generative AI & LLM Applications
-- AI-powered Solutions
-- Learning and building real-world projects
+- Backend Development & REST APIs
+- Generative AI and LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- AI-powered Applications
+- Software Engineering
 
 ---
 
-## 📊 GitHub Statistics
+## Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+**Dhemaji Engineering College**  
+Assam Science and Technology University
 
 ---
 
-## 🤝 Let's Connect
+## Connect With Me
 
 <p>
-  <a href="https://github.com/rahulsarmacodes">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.instagram.com/_rahul._.sarma_?jplx=anc1czczaGYxNHo0">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/19npj3y2o9/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building, learning, and evolving one project at a time."</i>
+  <i>"Learning continuously. Building consistently. Growing every day."</i>
 </p>
